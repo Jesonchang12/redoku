@@ -4,3 +4,5 @@ Auto-generates regex grid puzzle things that are a bit like sudoku but not reall
 
  * Inspired by the awesome [RegexCrossword.com](http://regexcrossword.com/).
  * [Play it here!](http://padolsey.github.io/redoku/).
+ 
+ Modified by Changtan
